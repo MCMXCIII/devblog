@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Dabbling in postgres "
-date:   2020-08-23 21:21:21 +0530
+date:   2023-01-20 21:21:21 +0530
 tags: [PostgreSQL,API]
 ---
 
