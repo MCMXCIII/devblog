@@ -2,7 +2,11 @@
 layout: post
 title:  "Building a Kernel"
 date:   2020-07-23 00:20:21 +0530
-tags: [linux, kernel, distro, tuning]
+tags:
+- linux 
+- kernel
+- distro
+- tuning
 ---
 
 So if you have gotten to this point. Then I will assume you have gotten a linux distro setup. 
