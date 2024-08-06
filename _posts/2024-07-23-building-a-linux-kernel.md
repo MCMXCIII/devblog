@@ -1,13 +1,11 @@
 ---
-layout: post
-title:  "Building a Kernel"
-date:   2023-07-23 00:20:21 +0530
-tags:
-- linux 
-- kernel
-- distro
-- tuning
+layout: design-post
+title:  "Building a linux kernel"
+date:   2023-06-01 21:21:21 +0530
+tags: [kernel]
 ---
+
+
 
 So if you have gotten to this point. Then I will assume you have gotten a linux distro setup. 
 
