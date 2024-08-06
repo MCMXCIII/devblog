@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Building a Kernel"
-date:   2020-07-23 00:20:21 +0530
+date:   2023-07-23 00:20:21 +0530
 tags:
 - linux 
 - kernel
