@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Installling A basic Grafana Setup With Prometheues.
+title: Configuring Postgres with SSL.
 subtitle: Playing with Monitoring.
 date: 2023-05-12 18:30:00 +0000
 tags:
