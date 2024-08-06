@@ -6,7 +6,6 @@ date: 2023-05-12 18:30:00 +0000
 tags:
 - security
 - postgres
-
 ---
 
 
