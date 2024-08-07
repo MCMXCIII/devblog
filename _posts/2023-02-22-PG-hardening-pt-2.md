@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Installling A basic Grafana Setup With Prometheues.
-subtitle: Playing with Monitoring.
+title: Hardening Postgres 101!
+subtitle: Locking down databases!.
 date: 2023-02-30 18:30:00 +0000
 tags:
 - monitoring
